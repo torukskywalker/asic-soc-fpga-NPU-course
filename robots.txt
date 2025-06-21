@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torukskywalker.github.io/asic-soc-fpga-NPU-course/sitemap.xml
